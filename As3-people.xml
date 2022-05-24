@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="InheritanceLearning.Student">
+    <void property="firstName">
+     <string>Harry</string>
+    </void>
+    <void property="gpa">
+     <double>3.65</double>
+    </void>
+    <void property="lastName">
+     <string>Potter</string>
+    </void>
+    <void property="year">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="InheritanceLearning.Student">
+    <void property="firstName">
+     <string>Ron</string>
+    </void>
+    <void property="gpa">
+     <double>2.21</double>
+    </void>
+    <void property="lastName">
+     <string>Weasley</string>
+    </void>
+    <void property="year">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="InheritanceLearning.Student">
+    <void property="firstName">
+     <string>Hermione</string>
+    </void>
+    <void property="gpa">
+     <double>4.5</double>
+    </void>
+    <void property="lastName">
+     <string>Granger</string>
+    </void>
+    <void property="year">
+     <int>2</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="InheritanceLearning.Student">
+    <void property="firstName">
+     <string>Ginny</string>
+    </void>
+    <void property="gpa">
+     <double>3.9</double>
+    </void>
+    <void property="lastName">
+     <string>Weasley</string>
+    </void>
+    <void property="year">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="InheritanceLearning.Student">
+    <void property="firstName">
+     <string>Cho</string>
+    </void>
+    <void property="gpa">
+     <double>4.05</double>
+    </void>
+    <void property="lastName">
+     <string>Chiang</string>
+    </void>
+    <void property="year">
+     <int>3</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
